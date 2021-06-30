@@ -1,0 +1,6 @@
+/home/sigmod/dataurus/build/release/CMakeFiles/edit_cache.dir
+/home/sigmod/dataurus/build/release/CMakeFiles/rebuild_cache.dir
+/home/sigmod/dataurus/build/release/CMakeFiles/database.dir
+/home/sigmod/dataurus/build/release/CMakeFiles/link_target.dir
+/home/sigmod/dataurus/build/release/CMakeFiles/Joiner.dir
+/home/sigmod/dataurus/build/release/CMakeFiles/Query2SQL.dir
